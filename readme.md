@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **CSS , JS , Unity**
 
-- 📫 How to reach me **suryadevchippada0903@gmail.com**
+- 📫 How to reach me **chippadasurya8@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
